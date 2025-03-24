@@ -1,5 +1,7 @@
+streamlit
+pandas
 requests
 beautifulsoup4
-pandas
-streamlit
-progressbar2
+tenacity
+openpyxl
+xlsxwriter
