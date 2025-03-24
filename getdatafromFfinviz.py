@@ -1,4 +1,4 @@
-# finviz_scraper_app.py
+# getdatafromFfinviz.py
 
 import streamlit as st
 import pandas as pd
